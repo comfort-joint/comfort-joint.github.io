@@ -1,0 +1,11 @@
+{
+    "name": "comfort_joint_website",
+    "short_name": "comfort_joint_website",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Comfort Joint!'s Official Website.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
